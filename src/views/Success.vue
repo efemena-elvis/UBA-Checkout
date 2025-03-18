@@ -2,7 +2,7 @@
     
   <transition name="fade" appear>
     <div   
-    class="shadow-lg p-12  mx-auto border border-gray-200 rounded-[20px] lg:w-[30%] w-[80%] text-green-600">
+    class="shadow-lg p-12  absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 border border-gray-200 rounded-[20px] lg:w-[40%] w-[80%] text-green-600">
         <div class="flex flex-col items-center space-y-6 ">
             <div class="py-4"><img src="../assets/svgs/success.svg" alt="Payment Successful" width="100"></div>
             <h1>🎉 Payment Successful!</h1>
