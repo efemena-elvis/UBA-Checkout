@@ -6,7 +6,7 @@
            
              <h1>🔄 Payment Cancelled</h1>
              <p>You have cancelled the transaction.</p>
-             <RouterLink to="/#" class="bg-gray-300 text-black p-3 w-[80px] text-center rounded-md hover:opacity-50">Go Home</RouterLink>
+             <RouterLink to="/#" class="bg-gray-300 text-black p-3 w-[80px] text-center rounded-md hover:opacity-50">Return Home</RouterLink>
          </div>
            </div>
      </transition>
